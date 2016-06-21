@@ -1,0 +1,2 @@
+# CirclePointViewPager
+一个自带小圆点的ViewPger，ViewPager可以跟着手势滑动而滑动
